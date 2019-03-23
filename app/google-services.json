@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "552213417884",
+    "firebase_url": "https://xmas-228f4.firebaseio.com",
+    "project_id": "xmas-228f4",
+    "storage_bucket": "xmas-228f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552213417884:android:be636e3ca91d2c9d",
+        "android_client_info": {
+          "package_name": "com.zpi.xmas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552213417884-hn4c4ifeo30t4o2hdd71tgrdernheou7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsA_Gbj3DxlS5bZZ92gcJwbFyYvAa6Bh8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
